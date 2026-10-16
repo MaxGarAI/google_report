@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Google Service Account Secrets (DO NOT COMMIT)
+excel-factory-*.json
+*-*.json
+*.pem
+
+# Local configuration
+app_config.json
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
